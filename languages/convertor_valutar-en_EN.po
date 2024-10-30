@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2012-10-23 14:29+0200\n"
+"PO-Revision-Date: 2012-10-23 14:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: convertor_valutar.php:45 convertor_valutar.php:46
+msgid "Convertor valutar"
+msgstr "Currency converter"
+
+#: convertor_valutar.php:45 convertor_valutar.php:46
+#, fuzzy
+msgid "Convertor valutar bazat pe cursul oficial al BNR"
+msgstr "Currency converter, uses BNR exchange rates"
+
+#: convertor_valutar.php:61
+msgid "Titlu:"
+msgstr "Title:"
+
+#: convertor_valutar.php:107
+msgid "Suma:"
+msgstr "Amount:"
+
+#: convertor_valutar.php:111
+msgid "Din:"
+msgstr "From:"
+
+#: convertor_valutar.php:114 convertor_valutar.php:149
+msgid "Dirhamul Emiratelor Arabe"
+msgstr "United Arab Emirates Dirham"
+
+#: convertor_valutar.php:115 convertor_valutar.php:150
+msgid "Dolarul australian"
+msgstr "Australian Dollar"
+
+#: convertor_valutar.php:116 convertor_valutar.php:151
+msgid "Leva bulgareasca"
+msgstr "Bulgarian Lev"
+
+#: convertor_valutar.php:117 convertor_valutar.php:152
+msgid "Realul brazilian"
+msgstr "Brazilian Real"
+
+#: convertor_valutar.php:118 convertor_valutar.php:153
+msgid "Dolarul canadian"
+msgstr "Canadian Dollar"
+
+#: convertor_valutar.php:119 convertor_valutar.php:154
+msgid "Francul elvetian"
+msgstr "Swiss Franc"
+
+#: convertor_valutar.php:120 convertor_valutar.php:155
+msgid "Yuan-ul chinezesc"
+msgstr "Chinese Yuan"
+
+#: convertor_valutar.php:121 convertor_valutar.php:156
+msgid "Coroana ceha"
+msgstr "Czech Republic Koruna"
+
+#: convertor_valutar.php:122 convertor_valutar.php:157
+msgid "Coroana daneza"
+msgstr "Danish Krone"
+
+#: convertor_valutar.php:123 convertor_valutar.php:158
+msgid "Lira egipteana"
+msgstr "Egyptian Pound"
+
+#: convertor_valutar.php:125 convertor_valutar.php:160
+msgid "Lira sterlina"
+msgstr "British Pound Sterling"
+
+#: convertor_valutar.php:126 convertor_valutar.php:161
+msgid "Forintul maghiar"
+msgstr "Hungarian Forint"
+
+#: convertor_valutar.php:127 convertor_valutar.php:162
+msgid "Rupia indiana"
+msgstr "Indian Rupee"
+
+#: convertor_valutar.php:128 convertor_valutar.php:163
+msgid "Yen-ul japonez"
+msgstr "Japanese Yen"
+
+#: convertor_valutar.php:129 convertor_valutar.php:164
+msgid "Won-ul sud-corean"
+msgstr "South Korean Won"
+
+#: convertor_valutar.php:130 convertor_valutar.php:165
+msgid "Leul moldovenesc"
+msgstr "Moldovan Leu"
+
+#: convertor_valutar.php:131 convertor_valutar.php:166
+msgid "Peso-ul mexican"
+msgstr "Mexican Peso"
+
+#: convertor_valutar.php:132 convertor_valutar.php:167
+msgid "Coroana norvegiana"
+msgstr "Norwegian Krone"
+
+#: convertor_valutar.php:133 convertor_valutar.php:168
+msgid "Dolarul neo-zeelandez"
+msgstr "New Zealand Dollar"
+
+#: convertor_valutar.php:134 convertor_valutar.php:169
+msgid "Zlotul polonez"
+msgstr "Polish Zloty "
+
+#: convertor_valutar.php:135 convertor_valutar.php:170
+msgid "Leul romanesc"
+msgstr "Romanian Leu"
+
+#: convertor_valutar.php:136 convertor_valutar.php:171
+msgid "Dinarul sarbesc"
+msgstr "Serbian Dina"
+
+#: convertor_valutar.php:137 convertor_valutar.php:172
+msgid "Rubla ruseasca"
+msgstr "Russian Ruble"
+
+#: convertor_valutar.php:138 convertor_valutar.php:173
+msgid "Coroana suedeza"
+msgstr "Swedish Krona"
+
+#: convertor_valutar.php:139 convertor_valutar.php:174
+msgid "Noua lira turceasca"
+msgstr "Turkish Lira"
+
+#: convertor_valutar.php:140 convertor_valutar.php:175
+msgid "Hryvna ucraineana"
+msgstr "Ukrainian Hryvnia"
+
+#: convertor_valutar.php:141 convertor_valutar.php:176
+msgid "Dolarul american"
+msgstr "US Dollar"
+
+#: convertor_valutar.php:142 convertor_valutar.php:177
+msgid "Rand-ul sud-african"
+msgstr "South African Rand "
+
+#: convertor_valutar.php:146
+msgid "In:"
+msgstr "To:"
+
+#: convertor_valutar.php:181
+msgid "Rezultat:"
+msgstr "Result:"
+
+#: convertor_valutar.php:185
+msgid "Converteste"
+msgstr "Convert"
